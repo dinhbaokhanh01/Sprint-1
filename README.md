@@ -38,4 +38,4 @@ Khu vực quản lý hợp đồng theo từng thực tập sinh
 
 Lưu ý: Hiện đang dùng mock data. Thành viên Backend gắn API sau.
 Liên hệ
-Đinh Bảo Khanh – Frontend.
+Đinh Bảo Khanh – Frontend
